@@ -1,4 +1,4 @@
-from tienda2 import Restaurante, Supermercado, Farmacia
+from tienda import Restaurante, Supermercado, Farmacia
 
 # Función para crear una tienda segun lo seleccionado por el usuario
 def crear_tienda():
