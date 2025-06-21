@@ -1,4 +1,6 @@
-utilizando Python y el paradigma orientado a objetos. Para el primer prototipo de entrega, se solicita realizar una aplicación de consola en Python, donde los ingresos de valores se hagan mediante input. El equipo te ha solicitado diseñar e implementar la arquitectura de clases que involucra a la entidad principal “Tienda”. Estas son las consideraciones que se deben tener en cuenta respecto de las tiendas:
+**Desafio_Interacciones_entre_objetos**
+
+Utilizando Python y el paradigma orientado a objetos. Para el primer prototipo de entrega, se solicita realizar una aplicación de consola en Python, donde los ingresos de valores se hagan mediante input. El equipo te ha solicitado diseñar e implementar la arquitectura de clases que involucra a la entidad principal “Tienda”. Estas son las consideraciones que se deben tener en cuenta respecto de las tiendas:
 
 ● Existen por el momento 3 tipos de tienda (en el futuro podría haber más), los cuales son: “Restaurante” “Supermercado” y “Farmacia”.
 ● Todas las tiendas deben poder ingresar un producto, listar los productos existentes, y realizar ventas.
